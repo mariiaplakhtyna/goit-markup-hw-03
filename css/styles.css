@@ -26,6 +26,7 @@ ul,ol {
 .header-nav {
     display: flex;
     align-items: center;
+    gap: 40px;
 }
 .page-header .header-container {
     display: flex;
@@ -35,7 +36,6 @@ ul,ol {
 }
 .header-logo .logo-accent {
     color: #2e2f42;
-    margin-right: 76px;
 }
 
 .nav-list {
@@ -43,7 +43,7 @@ ul,ol {
     list-style: none;
     gap: 30px;
     margin: 0;
-    padding:24px 0 24px;
+    padding: 0;
 }
 .nav-link {
     font-weight: 500;
@@ -108,7 +108,7 @@ background: var(--navy-blue);
     letter-spacing: 0.02em;
     font-weight: 700;
     font-size: 56px;
-    max-width: 496px;
+    width: 496;
     height: 120;
     
 
@@ -122,16 +122,14 @@ background: var(--navy-blue);
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
-    display: block;
+    display: center;
         align-items: flex-start;
         justify-content: flex-start;
         flex-direction: row;
         gap: 10px;
     border-radius: 4px;
-    border: none;
         padding: 16px 32px;
-       min-width: 169px;
-       height: 56px;
+        width: auto;
         text-align: center;
 }
 
@@ -259,10 +257,12 @@ margin: 0;
         flex: 0 0 calc((100% - 48px) / 3);
         box-sizing: border-box;
         background-color: #fff;
+        border: 1px solid #e7e9fc;
         border-radius: 4px;
         overflow: hidden;
 }
 .project-list img {
+    display: block;
     width: 100%;
     height: auto;
 }
@@ -283,7 +283,7 @@ margin: 0;
     background-color: #2e2f42;
 width: 1128px;
 margin: auto;
-padding: 100px 0 100px;
+padding: 100px 0;
   
 }
 
@@ -314,7 +314,7 @@ padding: 100px 0 100px;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    max-width: 264px;
+    font-weight: 400;
     font-size: 16px;
-    margin: 0px;
+    margin: 0;
 }
