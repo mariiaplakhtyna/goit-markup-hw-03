@@ -33,9 +33,10 @@ button {
 }
 /* ===== Header ===== */
 
-.page-header {
-   border-bottom: 1px solid #e7e9fc;
+.page-header { 
+    margin: 0;
 }
+ 
 .header-container {
     display: flex;
     align-items: center;
@@ -128,6 +129,7 @@ button {
     max-width: 496px;
     margin: 0 auto 48px;
     text-align: center;
+    margin-bottom: 72px;
 }
 
 .primary-btn {
@@ -224,7 +226,7 @@ button {
     letter-spacing: 0.02em;
     margin-bottom:  72px;
     text-align: center;
-    margin-bottom: 72px;
+    margin-bottom: 8px;
 
 }
 
@@ -287,6 +289,9 @@ button {
 .page-footer {
 background-color: #2e2f42;
 padding: 100px 0;  
+}
+.footer-container {
+    margin: 0;
 }
 
 .footer-logo {
