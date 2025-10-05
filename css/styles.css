@@ -265,7 +265,11 @@ button {
 .portfolio {
     padding: 120px 0;
 }
-
+.project-container {
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
 .project-list {
        display: flex;
        flex-wrap: wrap; 
