@@ -177,6 +177,7 @@ button {
     line-height: 1.2;
     letter-spacing: 0.02em;
     margin-bottom: 8px;
+    overflow: hidden;
 }
 
 .features-text {
@@ -190,6 +191,10 @@ button {
 
 
 /* ===== Team ===== */
+.team-container {
+    padding: 32px 0 32px;
+}
+
 .team {
     background-color: #f4f4fd;
     padding: 120px 0;
@@ -219,6 +224,7 @@ button {
     letter-spacing: 0.02em;
     margin-bottom:  72px;
     text-align: center;
+    margin-bottom: 72px;
 
 }
 
