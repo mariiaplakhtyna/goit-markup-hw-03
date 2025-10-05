@@ -268,9 +268,7 @@ button {
 
 .project-container {
     border: 1px solid #e7e9fc;
-    padding: 32PX 16px;
-    border-left: 1px solid #e7e9fc; 
-    border-right: 1px solid #e7e9fc;
+    padding: 32px 0 ; 
 }
 
 .project-list {
@@ -286,7 +284,13 @@ button {
     background-color: #fff;
     border-radius: 4px;
     overflow: hidden;
- }  
+}
+.project-card-content {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+
+}
 
 .project-title {
     color: #2e2f42;
