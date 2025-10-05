@@ -265,7 +265,8 @@ button {
 
 .project-container {
     border: 1px solid #e7e9fc;
-   padding: 32px 0px;
+   padding: 32px 16px;
+   border: none;
 }
 .portfolio {
     padding: 120px 0;
