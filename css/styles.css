@@ -69,13 +69,12 @@ button {
     line-height: 1.17;
     font-weight: 700;
     font-size: 18px;
-    color: var(--iris);
     letter-spacing: 0.03em;
     margin-right: 76px;
-    
+    color: var(--navy-blue)
 }
 .header-logo .logo-accent {
-   color: var(--navy-blue)
+   color: var(--iris);
 }
 
 
