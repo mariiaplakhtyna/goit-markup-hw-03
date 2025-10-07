@@ -325,10 +325,11 @@ padding: 100px 0;
     letter-spacing: 0.03m;
     margin-bottom: 16px;
     display: inline-block;
+    color: var(--iris);
 }
 
 .footer-logo .logo-parts {
-    color: #f4f4fd;
+    color: var(--cloud);
 }
 
 .footer-text {
