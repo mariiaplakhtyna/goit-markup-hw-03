@@ -69,13 +69,13 @@ button {
     line-height: 1.17;
     font-weight: 700;
     font-size: 18px;
-    color: #4d5ae5;
+    color: var(--iris);
     letter-spacing: 0.03em;
     margin-right: 76px;
     
 }
 .header-logo .logo-accent {
-   color: #2e2f42
+   color: var(--navy-blue)
 }
 
 
