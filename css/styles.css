@@ -71,6 +71,7 @@ button {
     color: #4d5ae5;
     letter-spacing: 0.03em;
     margin-right: 76px;
+    color: var(--iris);
 }
 
 .header-nav {
