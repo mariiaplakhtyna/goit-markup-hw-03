@@ -71,10 +71,10 @@ button {
     font-size: 18px;
     letter-spacing: 0.03em;
     margin-right: 76px;
-    color: var(--iris);
+    color: #4d5ae5;
 }
 .logo .logo-accent {
-  color: var(--navy-blue) 
+  color: #2e2f42
 }
 
 
@@ -325,11 +325,11 @@ padding: 100px 0;
     letter-spacing: 0.03m;
     margin-bottom: 16px;
     display: inline-block;
-    color: var(--iris);
+    color: #4d5ae5;
 }
 
 .footer-logo .logo-parts {
-    color: var(--cloud);
+    color: #f4f4fd;
 }
 
 .footer-text {
