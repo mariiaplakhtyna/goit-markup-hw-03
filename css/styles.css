@@ -74,6 +74,10 @@ button {
     margin-right: 76px;
     
 }
+.header-logo .logo-accent {
+   color: #2e2f42
+}
+
 
 .header-nav {
     display: flex;
@@ -81,9 +85,6 @@ button {
 }
 
 
-.header-logo .logo-accent {
-   color: #2e2f42
-}
 
 .nav-list {
     display: flex;
