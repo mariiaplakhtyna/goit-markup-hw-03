@@ -71,10 +71,10 @@ button {
     font-size: 18px;
     letter-spacing: 0.03em;
     margin-right: 76px;
-    color: var(--navy-blue)
+    color: var(--iris);
 }
-.header-logo .logo-accent {
-   color: var(--iris);
+.logo .logo-accent {
+  color: var(--navy-blue) 
 }
 
 
